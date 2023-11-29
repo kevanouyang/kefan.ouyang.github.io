@@ -23,6 +23,6 @@ Comming soon.
 
 ## Find the full text
 
-The full text can be found on the [Grassland and Turf](https://webofscience.clarivate.cn/wos/alldb/full-record/CSCD:7121787).
+The full text will be publicated soon.
 
 Thank you for careful reading.
