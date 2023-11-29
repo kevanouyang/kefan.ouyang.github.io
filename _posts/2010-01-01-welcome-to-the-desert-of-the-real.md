@@ -8,7 +8,7 @@ image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701233937/20210120%E8%9E%BA%E6%97%8B%E8%97%BB%E6%B0%BA%E6%B5%B8%E7%85%A7%E7%89%87_jsbg8p.jpg
 optimized_image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701233937/20210120%E8%9E%BA%E6%97%8B%E8%97%BB%E6%B0%BA%E6%B5%B8%E7%85%A7%E7%89%87_jsbg8p.jpg
-category: Food Bioscience
+category: Food Biosci
 tags:
   - Arthrospira
   - Hydrolysate
