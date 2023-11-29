@@ -1,136 +1,34 @@
 ---
-date: 2018-04-21 12:26:40
+date: 2023-11-26 12:26:40
 layout: post
-title: Candy, candies, candy!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
-category: diet
+title: Improving rice protein hydrolysates film by various strategies
+subtitle: A series of articles.
+description: Development of rice protein hydrolysates-based sustainable films: The effects of chitosan/ZnO nanoparticles/cellulose nanocrystals/genipin/curcumin
+image: >-
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701241212/u_409096865_122881777_fm_253_fmt_auto_app_138_f_JPEG_qy7b2o.jpg
+optimized_image: >-
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701241212/u_409096865_122881777_fm_253_fmt_auto_app_138_f_JPEG_qy7b2o.jpg
+category: A Series
 tags:
-  - food
-  - tips
-author: mranderson
+  - Hydrolysate
+  - film
+author: Kefan Ouyang
+paginate: true
 ---
+1. Chitosan/rice hydrolysate/curcumin composite film: Effect of chitosan molecular weight
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+The composite films were prepared by adding rice protein hydrolysate (RH) into chitosan (CH). Effect of four different chitosan molecular weights (MW, 0.8- 1.0, 30, 100, 300 kDa) was evaluated and curcumin was further incorporated into the film to enhance its bioactivities. With increasing MW (<100 kDa), moisture, solubility and water vapor transmission marginally decreased while tensile strength increased. Rice hydrolysate improved the film solubility and extensibility. All films showed extraordinary extensibility ranging from 180.26% to 204.08%. DSC confirmed MW did affect the thermal stability. The lower MW, the higher antioxidant activity of the CH/RH films. The 30 kDa CH/RH film exhibited higher antibacterial activity against both E. coli and S. aureus. Curcumin effectively improved both antibacterial and antioxidant activity of the CH/RH films. Hence, chitosan molecular weight must be chosen carefully according to its application and incorporation of protein hydrolysate into film would be an efficient strategy to modify film performance.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+2. Characterization of Rice Protein Hydrolysate/Chitosan Composite Films and Their Bioactivities Evaluation When Incorporating Curcumin: Effect of Genipin Concentration
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+The effect of genipin (GP) concentrations on the structural, mechanical, and water barrier properties of chitosan (CS)/rice protein hydrolysate (RH) composite films was investigated for further incorporating of curcumin. GP increased the stability of CS/RH conjugate in solution. The degree of CS/RH crosslinking depended on genipin concentration, as indicated in particle size and UV spectra. At optimal genipin concentration (0.4 mg GP/g total biopolymers), the CS/RH film had the lowest moisture content (10.67%) and water vapor transmission rate (829.35 g/m(2)center dot 24 h.). Genipin could enhance the tensile strength and thermal stability of the CS/RH films depending on GP addition concentration. With an increased amount of GP, the DPPH scavenging activity decreased due to the cross-linking of antioxidant peptides, and the E* value increased indicating the significant color differences caused by increasing GP. Notably, the addition of curcumin had a positive effect on the DPPH scavenging activity and antimicrobial activity of the CS/RH films. Curcumin-loaded CS/RH films had higher antibacterial activity against S. aureus than E. coli. In general, the suitable addition content of GP was a promising and green strategy to improve the properties of the CS/RH films.
 
-## Inline HTML elements
+3. Development of chitosan/rice protein hydrolysates/ZnO nanoparticles films reinforced with cellulose nanocrystals
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+In the present work, the composite films were obtained by the solution casting method from chitosan and rice protein hydrolysates, reinforced with cellulose nanocrystals (CNC) of different contents (0 %, 3 %, 6 % and 9 %). The influence of different CNC loadings on the mechanical, barrier and thermal properties was discussed. SEM showed the formation of intramolecular interactions between the CNC and film matrices, leading to more compact and homogeneous films. These interactions had a positive influence on the mechanical strength properties, which was reflected in higher breaking force of 4.27 MPa. The elongation dwindled from 132.42 % to 79.37 % with increasing CNC levels. The linkages formed between the CNC and film matrices reduced the water affinity, leading to a reduction in their moisture content, water solubility and water vapor transmission. Thermal stability of the composite films was also improved in the presence of CNC, by increasing maximum degradation temperature from 311.21 to 325.67 °C with increasing CNC contents. The strongest DPPH inhibition of the film was 45.42 %. The composite films exhibited the highest inhibition zone diameter against E. coli (12.05 mm) and S. aureus (12.48 mm), and the hybrid of CNC and ZnO nanoparticles exhibited stronger antibacterial activity than their single existent forms. The present work shows the possibility of obtaining CNC-reinforced films with improved mechanical, thermal and barrier properties.
+  
+## Find the full text
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+The full text can be found on the [Int J Biol Macromol 2022](https://doi.org/10.1016/j.ijbiomac.2022.05.031), [Food and Bioprocess Tech 2023](https://doi.org/10.1007/s11947-023-03056-7). and [Int J Biol Macromol 2023](https://doi.org/10.1016/j.ijbiomac.2023.123877).
 
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
+Thank you for careful reading.
