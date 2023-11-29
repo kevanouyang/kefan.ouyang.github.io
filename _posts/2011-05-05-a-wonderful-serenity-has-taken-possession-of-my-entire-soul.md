@@ -1,5 +1,5 @@
 ---
-date: 2023-11-26 12:26:40
+date: 2023-5-13 12:26:40
 layout: post
 title: Color formation during the fibrillization of food protein
 subtitle: The effect of Maillard reaction and protein oxidation.
