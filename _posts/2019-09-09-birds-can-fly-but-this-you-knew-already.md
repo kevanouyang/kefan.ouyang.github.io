@@ -1,5 +1,5 @@
 ---
-date: 2023-11-29 12:26:40
+date: 2023-11-29 12:16:40
 layout: post
 title: Modification strategies of protein fibrils
 subtitle: A review article is comming soon.
