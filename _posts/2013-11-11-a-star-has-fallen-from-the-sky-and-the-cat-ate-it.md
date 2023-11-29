@@ -1,5 +1,5 @@
 ---
-date: 2021-12-01 12:26:40.000Z
+date: 2021-12-01 12:26:40
 layout: post
 title: Flavonoid components from Dicranopteris pedata
 subtitle: >-
