@@ -8,7 +8,7 @@ image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701239094/%E5%8F%AF%E8%A7%81_-_%E5%89%AF%E6%9C%AC_3_pnnbck.png
 optimized_image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701239094/%E5%8F%AF%E8%A7%81_-_%E5%89%AF%E6%9C%AC_3_pnnbck.png
-category: Food Hydrocolloids
+category: Food Hydrocoll
 tags:
   - Fibrils
   - color
