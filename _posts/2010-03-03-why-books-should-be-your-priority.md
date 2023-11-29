@@ -3,7 +3,7 @@ date: 2023-10-11 12:26:40
 layout: post
 title: Slow digestive yeast protein!
 subtitle: Enhancing the solubility and emulsion properties of rice protein by deamidation of citric acid-based natural deep eutectic solvents.
-description: Slow-digestive yeast protein concentrate: An investigation of its in vitro digestibility and digestion behavior.
+description: The characteristics of rice protein deamidated (DRP) by choline chloride-citric acid and glucose-citric acid natural deep eutectic solvents (G-C NADES, C-C NADES) at different dilutions were investigated.
 image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701236643/u_626314492_4216707123_fm_253_fmt_auto_app_138_f_JPEG_pl9dti.jpg
 optimized_image: >-
