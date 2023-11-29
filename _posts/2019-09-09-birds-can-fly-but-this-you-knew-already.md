@@ -1,5 +1,5 @@
 ---
-date: 2023-11-29T12:26:40.000Z
+date: {}
 layout: post
 title: Modification strategies of protein fibrils
 subtitle: A review article is comming soon.
@@ -20,3 +20,9 @@ published: true
 ---
 
 Comming soon.
+
+## Find the full text
+
+The full text can be found on the [Grassland and Turf](https://webofscience.clarivate.cn/wos/alldb/full-record/CSCD:7121787).
+
+Thank you for careful reading.
