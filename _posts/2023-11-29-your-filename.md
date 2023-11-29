@@ -1,19 +1,21 @@
 ---
 published: false
-date: {}
+date: 2021-12-01T12:26:40.000Z
 layout: post
-subtitle: A review article is comming soon.
+subtitle: >-
+  Identification of flavonoid components from Dicranopteris pedata and its
+  antioxidant activity in vitro.
 description: >-
-  Exploring new modification strategies and more safety evidence for food
-  protein fibrils is desired.
+  Dicranopteris pedata is a medicinal herb widely distributed in south China,
+  but not widely utilized.
 image: >-
-  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701255423/_42e38962-2503-409b-9a49-28bb1bb8cf_gmm9vj.jpg
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701243832/u_573418183_3933976733_fm_253_fmt_auto_app_138_f_JPEG_wzpfor.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701255423/_42e38962-2503-409b-9a49-28bb1bb8cf_gmm9vj.jpg
-category: Submitted
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701243832/u_573418183_3933976733_fm_253_fmt_auto_app_138_f_JPEG_wzpfor.jpg
+category: Grassland＆Turf
 tags:
-  - Fibrils
-  - Review
+  - Flavonoid
+  - Antioxidant
 author: Kefan Ouyang
 paginate: true
 ---
