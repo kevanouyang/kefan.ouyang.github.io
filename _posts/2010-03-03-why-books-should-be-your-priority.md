@@ -8,7 +8,7 @@ image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701236643/u_626314492_4216707123_fm_253_fmt_auto_app_138_f_JPEG_pl9dti.jpg
 optimized_image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701236643/u_626314492_4216707123_fm_253_fmt_auto_app_138_f_JPEG_pl9dti.jpg
-category: Food Research International
+category: Food Res Int
 tags:
   - Protein
   - Digestion
