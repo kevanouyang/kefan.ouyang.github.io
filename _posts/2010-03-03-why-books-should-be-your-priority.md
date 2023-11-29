@@ -19,8 +19,7 @@ Yeast protein concentrate, a by-product of the fermentation industry waste, is a
 
 ## Graphical Abstract
 
-image: >-
-  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701236795/1-s2.0-S0963996923011201-ga1_lrg_dwqsra.jpg
+   ![placeholder](https://res.cloudinary.com/dscw6a6v3/image/upload/v1701236795/1-s2.0-S0963996923011201-ga1_lrg_dwqsra.jpg)
   
 ## Find the full text
 
