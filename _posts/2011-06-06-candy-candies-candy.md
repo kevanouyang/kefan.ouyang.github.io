@@ -3,7 +3,7 @@ date: 2023-11-26 12:26:40
 layout: post
 title: Improving rice protein hydrolysates film by various strategies
 subtitle: A series of articles.
-description: Development of rice protein hydrolysates-based sustainable films: The effects of chitosan/ZnO nanoparticles/cellulose nanocrystals/genipin/curcumin
+description: Various development of rice protein hydrolysates-based sustainable films: The combined effects of chitosan/ZnO nanoparticles/cellulose nanocrystals/genipin/curcumin
 image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701241212/u_409096865_122881777_fm_253_fmt_auto_app_138_f_JPEG_qy7b2o.jpg
 optimized_image: >-
