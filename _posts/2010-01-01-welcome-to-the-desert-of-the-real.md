@@ -1,7 +1,7 @@
 ---
 date: 2023-10-11T23:48:05.000Z
 layout: post
-title: valorizing Arthrospira waste into hydrolysates
+title: Valorizing Arthrospira waste into hydrolysates
 subtitle: 'A study on protein hydrolysate production by limited enzymatic hydrolysis.'
 description: >-
   Arthrospira cell residue (ACR) is a byproduct of the spirulina industry that can be valorized into protein hydrolysates. In this study, we used alkaline protease to hydrolyze ACR and evaluated the effects of hydrolysis time on the properties and functionalities of the hydrolysates. We measured the degree of hydrolysis (DH), particle size, fluorescence, UV‒visible absorption, surface hydrophobicity, emulsification, solubility, and antioxidant activity of the hydrolysates. The DH reached a maximum of 10.2% ± 0.6% after 240 min. Hydrolysis also altered the structure and conformation of the ACR protein, as shown by changes in fluorescence, UV-visible absorption, and FTIR spectra. Hydrolysis enhanced the solubility, surface hydrophobicity, and emulsifying activity of the hydrolysates but not the emulsion stability. The hydrolysates also exhibited higher antioxidant activity than ACR. These results indicate that enzymatic hydrolysis can convert ACR into valuable protein hydrolysates.
