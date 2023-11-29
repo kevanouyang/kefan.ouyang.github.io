@@ -1,7 +1,7 @@
 ---
 date: 2023-5-13 12:26:40
 layout: post
-title: Color formation during the fibrillization of food protein
+title: Color formation during the fibrillization
 subtitle: The effect of Maillard reaction and protein oxidation.
 description: Although the connection between color and deterioration reactions is well known there is no information on such effects during the fibrillization.
 image: >-
