@@ -1,5 +1,5 @@
 ---
-date: 2023-12-11T23:48:05.000Z
+date: 2023-11-29T23:48:05.000Z
 layout: post
 title: Valorizing Arthrospira waste into hydrolysates
 subtitle: A study on protein hydrolysate production by limited enzymatic hydrolysis.
