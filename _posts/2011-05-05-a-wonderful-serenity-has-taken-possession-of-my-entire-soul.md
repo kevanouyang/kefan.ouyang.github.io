@@ -23,6 +23,6 @@ Although the connection between color formation and protein deterioration reacti
   
 ## Find the full text
 
-The full text can be found on the [Food Hydrocolloids 2023 Vol. 142 Pages 108819](https://doi.org/10.1016/j.foodres.2023.113762).
+The full text can be found on the [Food Hydrocolloids 2023 Vol. 142 Pages 108819](https://doi.org/10.1016/j.foodhyd.2023.108819).
 
 Thank you for careful reading.
