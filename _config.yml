@@ -1,5 +1,5 @@
 # Site Settings
-name: Kefan
+name: Kefan Ouyang
 title: Kefan Ouyang
 description: A master student in Nanchang university.
 tags:
@@ -12,11 +12,11 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: About me
     url: /about
-  - title: Contact
+  - title: Contact me
     url: /contact
-  - title: Feed
+  - title: Other
     url: /feed.xml
 email: kefan.ouyang@email.ncu.edu.cn
 # See: https://disqus.com/
@@ -104,4 +104,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: Mr.
