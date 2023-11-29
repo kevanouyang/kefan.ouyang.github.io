@@ -11,7 +11,7 @@ optimized_image: >-
 category: Food Bioscience
 tags:
   - Arthrospira
-  - hydrolysate
+  - Hydrolysate
 author: Kefan Ouyang
 paginate: true
 ---
