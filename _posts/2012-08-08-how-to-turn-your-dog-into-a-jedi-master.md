@@ -5,9 +5,9 @@ title: Protein fibrils formed with phosphoric acid
 subtitle: Formation, structural characteristics, and emulsion stability.
 description: In this study, phosphoric acid was used to replace hydrochloric acid to induce the fibrillization of whey protein.
 image: >-
-  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701243118/1-s2.0-S0268005X22006907-ga1_lrg_gc31ks.jpg
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701254179/QQ%E5%9B%BE%E7%89%8720231129183537_onfppw.png
 optimized_image: >-
-  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701243118/1-s2.0-S0268005X22006907-ga1_lrg_gc31ks.jpg
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701254179/QQ%E5%9B%BE%E7%89%8720231129183537_onfppw.png
 category: Food Hydrocoll
 tags:
   - Acid
