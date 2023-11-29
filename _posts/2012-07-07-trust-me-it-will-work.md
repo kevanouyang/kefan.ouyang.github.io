@@ -1,9 +1,9 @@
 ---
 date: 2023-4-1 12:26:40
 layout: post
-title: Improving the emulsion by Adjusting Interactions of chitosan and rice protein hydrolysate
+title: Improving the emulsion by chitosan and rice protein hydrolysate
 subtitle: Enhancing the interfacial stability of O/W emulsion by adjusting interactions of chitosan and rice protein hydrolysate.
-description: The influences of chitosan and rice protein hydrolysate ratio and oil-water ratio on the emulsification efficiency, as well as the impact of RH on the formation of CH/RH complex coacervates was investigated.
+description: The influences of chitosan and rice protein hydrolysate ratio and oil-water ratio on the emulsification efficiency was investigated.
 image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701241919/u_2902292003_2309139366_fm_253_fmt_auto_app_138_f_JPEG_tnb53a.jpg
 optimized_image: >-
