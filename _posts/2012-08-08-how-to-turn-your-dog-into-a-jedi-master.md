@@ -1,7 +1,7 @@
 ---
 date: 2022-9-17 12:26:40
 layout: post
-title: Protein isolate fibrils formed with phosphoric acid
+title: Protein fibrils formed with phosphoric acid
 subtitle: Formation, structural characteristics, and emulsion stability.
 description: In this study, phosphoric acid was used to replace hydrochloric acid to induce the fibrillization of whey protein.
 image: >-
