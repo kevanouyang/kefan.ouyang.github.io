@@ -1,5 +1,5 @@
 ---
-date: {}
+date: 2023-11-29T12:26:40.000Z
 layout: post
 title: Modification strategies of protein fibrils
 subtitle: A review article is comming soon.
@@ -18,4 +18,5 @@ author: Kefan Ouyang
 paginate: true
 published: true
 ---
+
 Comming soon.
