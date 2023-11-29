@@ -8,7 +8,7 @@ image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701237486/u_3524627261_87446291_fm_253_fmt_auto_app_138_f_JPEG_yyyxbi.jpg
 optimized_image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701237486/u_3524627261_87446291_fm_253_fmt_auto_app_138_f_JPEG_yyyxbi.jpg
-category: Food Research International
+category: Food Res Int
 tags:
   - Protein
   - NADES
