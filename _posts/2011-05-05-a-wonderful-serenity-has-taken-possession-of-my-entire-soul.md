@@ -11,7 +11,7 @@ optimized_image: >-
 category: Food Hydrocoll
 tags:
   - Fibrils
-  - color
+  - Color
 author: Kefan Ouyang
 paginate: true
 ---
