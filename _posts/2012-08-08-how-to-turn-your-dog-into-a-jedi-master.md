@@ -11,7 +11,7 @@ optimized_image: >-
 category: Food Hydrocoll
 tags:
   - Acid
-  - fibrils
+  - Fibrils
 author: Kefan Ouyang
 paginate: true
 ---
