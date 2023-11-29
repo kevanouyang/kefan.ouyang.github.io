@@ -1,20 +1,19 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2023-10-11T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: valorizing Arthrospira waste into hydrolysates
+subtitle: 'A study on protein hydrolysate production by limited enzymatic hydrolysis.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Arthrospira cell residue (ACR) is a byproduct of the spirulina industry that can be valorized into protein hydrolysates. In this study, we used alkaline protease to hydrolyze ACR and evaluated the effects of hydrolysis time on the properties and functionalities of the hydrolysates. We measured the degree of hydrolysis (DH), particle size, fluorescence, UV‒visible absorption, surface hydrophobicity, emulsification, solubility, and antioxidant activity of the hydrolysates. The DH reached a maximum of 10.2% ± 0.6% after 240 min. Hydrolysis also altered the structure and conformation of the ACR protein, as shown by changes in fluorescence, UV-visible absorption, and FTIR spectra. Hydrolysis enhanced the solubility, surface hydrophobicity, and emulsifying activity of the hydrolysates but not the emulsion stability. The hydrolysates also exhibited higher antioxidant activity than ACR. These results indicate that enzymatic hydrolysis can convert ACR into valuable protein hydrolysates.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701233937/20210120%E8%9E%BA%E6%97%8B%E8%97%BB%E6%B0%BA%E6%B5%B8%E7%85%A7%E7%89%87_jsbg8p.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701233937/20210120%E8%9E%BA%E6%97%8B%E8%97%BB%E6%B0%BA%E6%B5%B8%E7%85%A7%E7%89%87_jsbg8p.jpg
 category: blog
 tags:
-  - welcome
-  - blog
-author: mranderson
+  - Arthrospira
+  - hydrolysate
+author: Kefan Ouyang
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
