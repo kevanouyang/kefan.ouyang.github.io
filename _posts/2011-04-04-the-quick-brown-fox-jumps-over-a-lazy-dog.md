@@ -3,7 +3,7 @@ date: 2023-11-26 12:26:40
 layout: post
 title: Enhancing rice protein using natural deep eutectic solvents
 subtitle: Enhancing the solubility and emulsion properties of rice protein by deamidation of citric acid-based natural deep eutectic solvents.
-description: The characteristics of rice protein deamidated (DRP) by choline chloride-citric acid and glucose-citric acid natural deep eutectic solvents (G-C NADES, C-C NADES) at different dilutions were investigated.
+description: The characteristics of rice protein deamidated by choline chloride-citric acid and glucose-citric acid natural deep eutectic solvents were investigated.
 image: >-
   https://res.cloudinary.com/dscw6a6v3/image/upload/v1701237486/u_3524627261_87446291_fm_253_fmt_auto_app_138_f_JPEG_yyyxbi.jpg
 optimized_image: >-
