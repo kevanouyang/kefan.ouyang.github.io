@@ -19,8 +19,7 @@ Arthrospira cell residue (ACR) is a byproduct of the spirulina industry that can
 
 ## Graphical Abstract
 
-image: >-
-  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701235237/1-s2.0-S221242922300915X-ga1_lrg_1_hvsouy.jpg
+  ![placeholder](https://res.cloudinary.com/dscw6a6v3/image/upload/v1701235237/1-s2.0-S221242922300915X-ga1_lrg_1_hvsouy.jpg)
   
 ## Find the full text
 
