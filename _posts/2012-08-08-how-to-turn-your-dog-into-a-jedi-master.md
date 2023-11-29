@@ -1,137 +1,28 @@
 ---
-date: 2018-02-03 12:26:40
+date: 2022-9-17 12:26:40
 layout: post
-title: How to turn your dog into a Jedi master
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
-category: tutorial
+title: Protein isolate fibrils formed with phosphoric acid
+subtitle: Formation, structural characteristics, and emulsion stability.
+description: In this study, phosphoric acid was used to replace hydrochloric acid to induce the fibrillization of whey protein.
+image: >-
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701242591/24-100_xhhbeo.tiff
+optimized_image: >-
+  https://res.cloudinary.com/dscw6a6v3/image/upload/v1701242591/24-100_xhhbeo.tiff
+category: Food Hydrocoll
 tags:
-  - jedi
-  - doggo
-  - starwars
-author: mranderson
+  - Acid
+  - fibrils
+author: Kefan Ouyang
+paginate: true
 ---
+In this study, phosphoric acid was used to replace hydrochloric acid which is widely reported in the production of whey protein isolate fibrils (WPF). The pH, temperature, and protein concentration for the phosphoric acid-induced fibrillation were optimized (4% w/v, pH 2.5, 90 °C). Under this condition, the mean particle size and molecular weight decreased significantly while the ζ-potential increased slightly, it suggested that the fibrillation was accompanied by hydrolysis. WPF was already formed via intermolecular interactions at 6 h, which exhibited a semiflexible and unbranched filament of about 10 nm in diameter. A few single-filament flexible fibrils (about 5 nm in diameter) formed at 24 h. Thioflavin T analysis supported by Intrinsic fluorescence showed that the use of phosphoric acid accelerated the fibrillation. The ANS fluorescence and Second-derivative UV–vis spectra indicated the increase in surface hydrophobicity, peaking after 12 h of heating. Compared with the hydrochloric acid induced, WPF induced by phosphoric acid exhibited a shorter lag phase and maintained a more stable dispersion state with a nanoscale particle size. The great interfacial properties and proper aspect ratio (length/diameter) provided the contribution that WPF effectively absorbed at the oil-water interface. Moreover, the emulsion stability of the WPF improved with increasing salt concentration. The phosphoric acid-induced WPF had the best emulsion stability at pH 5.5 which was further enhanced by proper heating.
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+## Graphical Abstract
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+  ![placeholder](https://res.cloudinary.com/dscw6a6v3/image/upload/v1701242695/316%E7%A3%B7%E9%85%B8%E6%91%98%E8%A6%81_%E7%94%BB%E6%9D%BF_1_sqod9b.tiff)
+  
+## Find the full text
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+The full text can be found on the [Food Hydrocolloids 2023 Vol. 135 Pages 108170](https://doi.org/10.1016/j.foodhyd.2022.108170).
 
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
+Thank you for careful reading.
