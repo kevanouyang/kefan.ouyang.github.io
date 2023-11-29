@@ -2,7 +2,7 @@
 layout: page
 menu: false
 date: '2020-02-27 01:53:59'
-title: About
+title: Kefan Ouyang
 description: Some description.
 permalink: /about/
 ---
@@ -11,9 +11,4 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a food science master student with a focus on protein fibrillization. I have gained laboratory experience during my university studies and have taken on roles in multiple projects. I am passionate about food science and am eager to learn and grow in the field.
