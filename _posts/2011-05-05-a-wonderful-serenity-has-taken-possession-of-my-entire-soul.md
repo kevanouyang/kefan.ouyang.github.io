@@ -1,7 +1,7 @@
 ---
 date: 2023-11-26 12:26:40
 layout: post
-title: Color formation during the fibrillization
+title: Color formation during the fibrillization of food protein
 subtitle: Color formation during the fibrillization of whey protein isolate: Maillard reaction and protein oxidation.
 description: Although the connection between color formation and protein deterioration reactions such as oxidation and Maillard reaction is well known there is no information on such effects during the fibrillization of protein fibrils.
 image: >-
