@@ -1,5 +1,5 @@
 ---
-date: 2023-11-26 12:26:40
+date: 2023-3-14 12:26:40
 layout: post
 title: Improving rice protein hydrolysates film by various strategies
 subtitle: A series of articles, development of rice protein hydrolysates-based films.
