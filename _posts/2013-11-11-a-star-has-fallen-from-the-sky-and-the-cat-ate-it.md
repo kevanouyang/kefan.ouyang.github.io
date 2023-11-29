@@ -1,5 +1,5 @@
 ---
-date: 2023-12-1 12:26:40
+date: 2021-12-1 12:26:40
 layout: post
 title: Flavonoid components from Dicranopteris pedata
 subtitle: Identification of flavonoid components from Dicranopteris pedata and its antioxidant activity in vitro.
